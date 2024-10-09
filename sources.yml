@@ -1,0 +1,2828 @@
+-
+ id: 1
+ url: http://maven.apache.org/ref/3.8.1/maven-core/default-bindings.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 27/05/2021
+ web_archive_org_backup_date: 27/05/2021
+-
+ id: 2
+ url: https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 17/06/2021
+ web_archive_org_backup_date: 17/06/2021
+-
+ id: 3
+ url: http://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 18/04/2020
+ web_archive_org_backup_date: 18/04/2020
+-
+ id: 4
+ url: http://maven.apache.org/ref/3.6.3/maven-core/artifact-handlers.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 13/03/2020
+ web_archive_org_backup_date: 13/03/2020
+-
+ id: 5
+ url: https://maven.apache.org/ref/3.6.3/maven-embedder/cli.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 30/05/2021
+ web_archive_org_backup_date: 30/05/2021
+-
+ id: 6
+ url: http://maven.apache.org/pom.html#Repositories
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 30/05/2021
+ web_archive_org_backup_date: 30/05/2021
+-
+ id: 7
+ url: http://maven.apache.org/maven-ci-friendly.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 18/03/2020
+ web_archive_org_backup_date: 18/03/2020
+-
+ id: 8
+ url: http://maven.apache.org/plugin-developers/index.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 03/01/2020
+ web_archive_org_backup_date: 03/01/2020
+-
+ id: 9
+ url: http://maven.apache.org/surefire/maven-surefire-plugin/examples/fork-options-and-parallel-execution.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 09/03/2020
+ web_archive_org_backup_date: 09/03/2020
+-
+ id: 10
+ url: https://linux.die.net/man/8/sudo
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 05/09/2020
+ web_archive_org_backup_date: 05/09/2020
+-
+ id: 11
+ url: https://devblogs.microsoft.com/commandline/windows-command-line-the-evolution-of-the-windows-command-line/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 02/05/2020
+ web_archive_org_backup_date: 02/05/2020
+-
+ id: 12
+ url: https://download.microsoft.com/download/5/8/9/58911986-D4AD-4695-BF63-F734CD4DF8F2/ws-commands.pdf
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 02/05/2020
+ web_archive_org_backup_date: 02/05/2020
+-
+ id: 14
+ url: https://devblogs.microsoft.com/commandline/rumors-of-cmds-death-have-been-greatly-exaggerated/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 02/05/2020
+ web_archive_org_backup_date: 02/05/2020
+-
+ id: 16
+ url: https://devblogs.microsoft.com/commandline/windows-command-line-inside-the-windows-console/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 02/05/2020
+ web_archive_org_backup_date: 02/05/2020
+-
+ id: 17
+ url: https://invisible-island.net/xterm/xterm.faq.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 02/05/2020
+ web_archive_org_backup_date: 02/05/2020
+-
+ id: 18
+ url: https://www.systutorials.com/docs/linux/man/1-gnome-terminal/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 02/05/2020
+ web_archive_org_backup_date: 02/05/2020
+-
+ id: 21
+ url: http://www.mingw.org/wiki/MSYS
+ local_pdf_backup_date: 24/05/2020
+ local_html_backup_date: 24/05/2020
+ archive_is_backup_date: 24/05/2020
+ web_archive_org_backup_date: 24/05/2020
+-
+ id: 22
+ url: https://github.com/git/git/commit/df5218b4c30b2fa1ba0d1ada4166ad85bc83be26
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 24/05/2020
+ web_archive_org_backup_date: 24/05/2020
+-
+ id: 23
+ url: https://devblogs.microsoft.com/commandline/announcing-wsl-2/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 24/05/2020
+ web_archive_org_backup_date: 24/05/2020
+-
+ id: 25
+ url: https://docs.microsoft.com/en-us/windows/wsl/interop
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 24/05/2020
+ web_archive_org_backup_date: 24/05/2020
+-
+ id: 27
+ url: https://fishshell.com/docs/current/cmds/source.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 18/04/2020
+ web_archive_org_backup_date: 18/04/2020
+-
+ id: 28
+ url: https://devblogs.microsoft.com/commandline/windows-command-line-introducing-the-windows-pseudo-console-conpty/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 02/05/2020
+ web_archive_org_backup_date: 02/05/2020
+-
+ id: 29
+ url: https://developers.redhat.com/blog/2019/05/07/what-no-python-in-red-hat-enterprise-linux-8/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 05/09/2020
+ web_archive_org_backup_date: 05/09/2020
+-
+ id: 30
+ url: https://tools.ietf.org/html/rfc7807
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 11/02/2021
+ web_archive_org_backup_date: 11/02/2021
+-
+ id: 31
+ url: https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dead-letter-queues
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 24/09/2020
+ web_archive_org_backup_date: 24/09/2020
+-
+ id: 32
+ url: https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 27/01/2021
+ web_archive_org_backup_date: 27/01/2021
+-
+ id: 33
+ url: https://grpc.io/faq/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 19/10/2019
+ web_archive_org_backup_date: 19/10/2019
+-
+ id: 34
+ url: https://github.com/nats-io/nats-streaming-server/blob/master/server/clustering.go#L54
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 10/10/2019
+ web_archive_org_backup_date: 10/10/2019
+-
+ id: 35
+ url: https://chocolatey.org/docs/GettingStarted#terminology
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 10/11/2019
+ web_archive_org_backup_date: 10/11/2019
+-
+ id: 36
+ url: https://cloud.google.com/docs/compare/azure#service_comparisons
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 27/04/2020
+ web_archive_org_backup_date: 27/04/2020
+-
+ id: 37
+ url: https://cloud.google.com/docs/compare/aws
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 27/04/2020
+ web_archive_org_backup_date: 27/04/2020
+-
+ id: 38
+ url: https://github.com/jmrozanec/cron-utils
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 03/10/2020
+ web_archive_org_backup_date: 03/10/2020
+-
+ id: 39
+ url: http://www.unix.com/man-page/linux/5/crontab/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 03/10/2020
+ web_archive_org_backup_date: 03/10/2020
+-
+ id: 40
+ url: http://www.sauronsoftware.it/projects/cron4j/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 03/10/2020
+ web_archive_org_backup_date: 03/10/2020
+-
+ id: 41
+ url: http://quartz-scheduler.org/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 03/10/2020
+ web_archive_org_backup_date: 03/10/2020
+-
+ id: 42
+ url: https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/scheduling/support/CronSequenceGenerator.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 03/10/2020
+ web_archive_org_backup_date: 03/10/2020
+-
+ id: 43
+ url: https://github.com/commerceguys/addressing
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 09/11/2020
+ web_archive_org_backup_date: 09/11/2020
+-
+ id: 44
+ url: https://github.com/commerceguys/addressing/tree/master/resources
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 09/11/2020
+ web_archive_org_backup_date: 09/11/2020
+-
+ id: 45
+ url: http://cldr.unicode.org/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 09/11/2020
+ web_archive_org_backup_date: 09/11/2020
+-
+ id: 46
+ url: https://chromium-i18n.appspot.com/ssl-address
+ local_pdf_backup_date: content_is_not_important_and_too_big
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 09/11/2020
+ web_archive_org_backup_date: 09/11/2020
+-
+ id: 47
+ url: https://chromium-i18n.appspot.com/ssl-address/data/TR/İstanbul
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 09/11/2020
+ web_archive_org_backup_date: 09/11/2020
+-
+ id: 48
+ url: http://jpetazzo.github.io/2015/09/03/do-not-use-docker-in-docker-for-ci/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 28/05/2020
+ web_archive_org_backup_date: 28/05/2020
+-
+ id: 49
+ url: https://github.com/docker-library/docker
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 28/05/2020
+ web_archive_org_backup_date: 28/05/2020
+-
+ id: 52
+ url: https://www.pcre.org/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 23/10/2020
+ web_archive_org_backup_date: 23/10/2020
+-
+ id: 53
+ url: https://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 23/10/2020
+ web_archive_org_backup_date: 23/10/2020
+-
+ id: 54
+ url: https://docs.oracle.com/cd/E19798-01/821-1752/ggrgy/index.html
+ local_pdf_backup_date: 11/04/2022
+ local_html_backup_date: 11/04/2022
+ archive_is_backup_date: 11/04/2022
+ web_archive_org_backup_date: 11/04/2022
+-
+ id: 56
+ url: https://redux.js.org/basics/reducers
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 22/05/2020
+ web_archive_org_backup_date: 22/05/2020
+-
+ id: 57
+ url: http://editor.swagger.io/
+ local_pdf_backup_date: 10/02/2020
+ local_html_backup_date: 10/02/2020
+ archive_is_backup_date: 10/02/2020
+ web_archive_org_backup_date: 10/02/2020
+-
+ id: 58
+ url: https://petstore.swagger.io/
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 10/02/2020
+ web_archive_org_backup_date: 10/02/2020
+-
+ id: 59
+ url: https://stackoverflow.com/questions/19838825/what-are-elasticsearch-indices
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 15/09/2020
+ web_archive_org_backup_date: 15/09/2020
+-
+ id: 60
+ url: https://www.elastic.co/guide/en/elasticsearch/reference/current/glossary.html
+ local_pdf_backup_date: 26/12/2019
+ local_html_backup_date: 26/12/2019
+ archive_is_backup_date: 26/12/2019
+ web_archive_org_backup_date: 26/12/2019
+-
+ id: 61
+ url: https://kodcu.com/2013/08/elasticsearch/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 15/09/2020
+ web_archive_org_backup_date: 15/09/2020
+-
+ id: 62
+ url: https://www.thomas-krenn.com/en/wiki/Linux_Page_Cache_Basics
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 12/08/2020
+ web_archive_org_backup_date: 12/08/2020
+-
+ id: 64
+ url: https://www.blackhat.com/docs/asia-16/materials/asia-16-Sivakorn-Im-Not-a-Human-Breaking-the-Google-reCAPTCHA-wp.pdf
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 18/05/2021
+ web_archive_org_backup_date: 18/05/2021
+-
+ id: 65
+ url: https://unix.superglobalmegacorp.com/Net2/newsrc/sys/signal.h.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 14/05/2020
+ web_archive_org_backup_date: 14/05/2020
+-
+ id: 66
+ url: https://ark.intel.com/content/www/us/en/ark.html#@Processors
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 01/06/2020
+ web_archive_org_backup_date: 01/06/2020
+-
+ id: 67
+ url: https://en.wikipedia.org/wiki/List_of_Intel_microprocessors
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 1/06/2020
+ web_archive_org_backup_date: 1/06/2020
+-
+ id: 68
+ url: https://www.intel.com.tr/content/www/tr/tr/processors/processor-numbers.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 1/06/2020
+ web_archive_org_backup_date: 1/06/2020
+-
+ id: 69
+ url: https://developer.mozilla.org/en-US/docs/Archive/Apps/Design/UI_layout_basics/Responsive_design_versus_adaptive_design
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 03/06/2020
+ web_archive_org_backup_date: 03/06/2020
+-
+ id: 70
+ url: https://en.wikipedia.org/wiki/Barcode
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 29/10/2020
+ web_archive_org_backup_date: 29/10/2020
+-
+ id: 71
+ url: https://github.com/Microsoft/vscode-eslint/issues/417
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 14/11/2019
+ web_archive_org_backup_date: 14/11/2019
+-
+ id: 72
+ url: https://www.javadoc.io/doc/org.mockito/mockito-core/latest/org/mockito/BDDMockito.html
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 18/05/2021
+ web_archive_org_backup_date: 18/05/2021
+-
+ id: 74
+ url: https://tc39.es/ecma262/#sec-overview
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 22/03/2020
+ web_archive_org_backup_date: 22/03/2020
+-
+ id: 76
+ url: https://doc.lagout.org/network/The%20Illustrated%20Network.pdf
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 26/08/2020
+ web_archive_org_backup_date: 26/08/2020
+-
+ id: 77
+ url: https://github.github.com/gfm/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 02/03/2020
+ web_archive_org_backup_date: 02/03/2020
+-
+ id: 78
+ url: https://spec.commonmark.org/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 02/03/2020
+ web_archive_org_backup_date: 02/03/2020
+-
+ id: 79
+ url: https://tools.ietf.org/html/rfc7764
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 02/03/2020
+ web_archive_org_backup_date: 02/03/2020
+-
+ id: 80
+ url: https://github.blog/2017-03-14-a-formal-spec-for-github-markdown/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 29/04/2020
+ web_archive_org_backup_date: 29/04/2020
+-
+ id: 81
+ url: https://www.scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 08/12/2020
+ web_archive_org_backup_date: 08/12/2020
+-
+ id: 82
+ url: https://www.scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Turkish.pdf
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 08/12/2020
+ web_archive_org_backup_date: 08/12/2020
+-
+ id: 83
+ url: https://scrumguides.org/revisions.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 29/05/2021
+ web_archive_org_backup_date: 29/05/2021
+-
+ id: 84
+ url: https://www.informit.com/articles/article.aspx?p=2472079&seqNum=4
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 02/01/2021
+ web_archive_org_backup_date: 02/01/2021
+-
+ id: 85
+ url: https://devblogs.microsoft.com/commandline/windows-command-line-the-evolution-of-the-windows-command-line/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 02/05/2020
+ web_archive_org_backup_date: 02/05/2020
+-
+ id: 86
+ url: https://docs.oracle.com/cd/B28359_01/server.111/b28281/architectures.htm
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 10/12/2020
+ web_archive_org_backup_date: 10/12/2020
+-
+ id: 87
+ url: https://medium.com/@barisvelioglu61/cap-teorem-nedir-53557407bdef
+ local_pdf_backup_date: 18/08/2020
+ local_html_backup_date: 18/08/2020
+ archive_is_backup_date: 18/08/2020
+ web_archive_org_backup_date: 18/08/2020
+-
+ id: 88
+ url: https://res.mdpi.com/d_attachment/futureinternet/futureinternet-11-00043/article_deploy/futureinternet-11-00043.pdf
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 30/07/2020
+ web_archive_org_backup_date: 30/07/2020
+-
+ id: 89
+ url: https://medium.com/cosmosgaminghub/consistency-e3e0fe41358d
+ local_pdf_backup_date: 31/07/2020
+ local_html_backup_date: 31/07/2020
+ archive_is_backup_date: 31/07/2020
+ web_archive_org_backup_date: 31/07/2020
+-
+ id: 90
+ url: https://riunet.upv.es/bitstream/handle/10251/54786/TFMLeticiaPascual.pdf
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 1/08/2020
+ web_archive_org_backup_date: 1/08/2020
+-
+ id: 93
+ url: https://www.elastic.co/blog/found-sizing-elasticsearch
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 18/09/2020
+ web_archive_org_backup_date: 18/09/2020
+-
+ id: 94
+ url: https://docs.hazelcast.org/docs/3.4/manual/html/networkpartitioning.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 10/09/2020
+ web_archive_org_backup_date: 10/09/2020
+-
+ id: 95
+ url: https://hazelcast.com/glossary/data-grid/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 16/09/2020
+ web_archive_org_backup_date: 16/09/2020
+-
+ id: 97
+ url: https://redisson.org/glossary/redis.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 18/09/2020
+ web_archive_org_backup_date: 18/09/2020
+-
+ id: 98
+ url: https://github.com/redisson/redisson/wiki/8.-Distributed-locks-and-synchronizers
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 19/09/2020
+ web_archive_org_backup_date: 19/09/2020
+-
+ id: 99
+ url: https://redislabs.com/faqs/what-is-the-difference-rev-and-rec/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 19/09/2020
+ web_archive_org_backup_date: 19/09/2020
+-
+ id: 100
+ url: https://redis.io/documentation
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 19/09/2020
+ web_archive_org_backup_date: 19/09/2020
+-
+ id: 101
+ url: https://aws.amazon.com/elasticache/redis-vs-memcached/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 18/09/2020
+ web_archive_org_backup_date: 18/09/2020
+-
+ id: 102
+ url: https://www.imaginarycloud.com/blog/redis-vs-memcached/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 18/09/2020
+ web_archive_org_backup_date: 18/09/2020
+-
+ id: 103
+ url: https://mariadb.com/kb/en/mariadb-vs-mysql-features/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 15/09/2020
+ web_archive_org_backup_date: 15/09/2020
+-
+ id: 104
+ url: https://www.postgresql.org/docs/12/unsupported-features-sql-standard.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 15/09/2020
+ web_archive_org_backup_date: 15/09/2020
+-
+ id: 105
+ url: https://www.postgresql.org/docs/12/features-sql-standard.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 15/09/2020
+ web_archive_org_backup_date: 15/09/2020
+-
+ id: 106
+ url: https://blogs.oracle.com/sql/improve-sql-query-performance-by-using-bind-variables
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 25/07/2020
+ web_archive_org_backup_date: 25/07/2020
+-
+ id: 109
+ url: http://www.bristle.com/Tips/SQL.htm
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 01/01/2021
+ web_archive_org_backup_date: 01/01/2021
+-
+ id: 110
+ url: https://docs.microsoft.com/en-us/sql/t-sql/language-elements/transactions-transact-sql?view=sql-server-ver15
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 01/01/2021
+ web_archive_org_backup_date: 01/01/2021
+-
+ id: 111
+ url: https://docs.microsoft.com/en-us/sql/odbc/reference/develop-app/transaction-isolation-levels?view=sql-server-ver15
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 09/06/2020
+ web_archive_org_backup_date: 09/06/2020
+-
+ id: 112
+ url: https://docs.microsoft.com/en-us/sql/t-sql/statements/set-transaction-isolation-level-transact-sql?view=sql-server-ver15
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 09/06/2020
+ web_archive_org_backup_date: 09/06/2020
+-
+ id: 116
+ url: https://martinfowler.com/articles/injection.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 19/07/2020
+ web_archive_org_backup_date: 19/07/2020
+-
+ id: 117
+ url: https://stackoverflow.com/questions/6550700/inversion-of-control-vs-dependency-injection
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 19/07/2020
+ web_archive_org_backup_date: 19/07/2020
+-
+ id: 118
+ url: https://jakarta.ee/specifications/cdi/2.0/cdi-spec-2.0.html#part_2
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 17/01/2021
+ web_archive_org_backup_date: 17/01/2021
+-
+ id: 119
+ url: https://ducmanhphan.github.io/2020-01-14-How-to-use-CDI-in-Java-EE/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 17/01/2021
+ web_archive_org_backup_date: 17/01/2021
+-
+ id: 120
+ url: https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.bootstrap-mode
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 25/06/2021
+ web_archive_org_backup_date: 25/06/2021
+-
+ id: 121
+ url: https://www.keycloak.org/docs/latest/server_admin/keycloak-images/browser-flow.png
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 31/05/2021
+ web_archive_org_backup_date: 31/05/2021
+-
+ id: 122
+ url: https://github.com/keycloak/keycloak/blob/11.0.3/services/src/main/java/org/keycloak/forms/login/freemarker/FreeMarkerLoginFormsProvider.java
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 25/05/2021
+ web_archive_org_backup_date: 25/05/2021
+-
+ id: 123
+ url: https://www.datastax.com/blog/2017/09/top-10-things-apache-cassandra-users-need-know-about-datastax-enterprise-part-1
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 11/04/2020
+ web_archive_org_backup_date: 11/04/2020
+-
+ id: 124
+ url: https://docs.datastax.com/en/ddac/doc/datastax_enterprise/dbInternals/dbIntAboutReads.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 01/02/2020
+ web_archive_org_backup_date: 01/02/2020
+-
+ id: 125
+ url: https://stackoverflow.com/questions/16532227/difference-between-update-and-insert-in-cassandra
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 01/02/2020
+ web_archive_org_backup_date: 01/02/2020
+-
+ id: 126
+ url: https://issues.apache.org/jira/browse/CASSANDRA-11805
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 01/02/2020
+ web_archive_org_backup_date: 01/02/2020
+-
+ id: 127
+ url: https://docs.datastax.com/en/ddac/doc/datastax_enterprise/dbInternals/dbIntMgmtOndisk.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 08/08/2020
+ web_archive_org_backup_date: 08/08/2020
+-
+ id: 129
+ url: https://docs.datastax.com/en/archived/cassandra/3.0/cassandra/dml/dmlHowDataWritten.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 11/12/2020
+ web_archive_org_backup_date: 11/12/2020
+-
+ id: 130
+ url: https://docs.mongodb.com/manual/core/replica-set-elections/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 25/07/2020
+ web_archive_org_backup_date: 25/07/2020
+-
+ id: 131
+ url: https://phoenixnap.com/kb/cassandra-vs-mongodb
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 25/07/2020
+ web_archive_org_backup_date: 25/07/2020
+-
+ id: 132
+ url: https://docs.mongodb.com/manual/core/data-modeling-introduction/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 20/12/2020
+ web_archive_org_backup_date: 20/12/2020
+-
+ id: 133
+ url: https://docs.datastax.com/en/cql-oss/3.3/cql/cql_using/useCollections.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 26/12/2020
+ web_archive_org_backup_date: 26/12/2020
+-
+ id: 134
+ url: https://shermandigital.com/blog/designing-a-cassandra-data-model/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 01/02/2020
+ web_archive_org_backup_date: 01/02/2020
+-
+ id: 136
+ url: https://dzone.com/articles/consistent-hashing-1
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 06/02/2020
+ web_archive_org_backup_date: 06/02/2020
+-
+ id: 138
+ url: https://raw.githubusercontent.com/datastax/java-driver/ba5bf9a9b42e1126ce4b0ceb75bde3603f4f48bb/examples/src/main/java/com/datastax/oss/driver/examples/datatypes/Blobs.java
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 19/08/2020
+ web_archive_org_backup_date: 19/08/2020
+-
+ id: 139
+ url: https://docs.datastax.com/en/archived/cassandra/2.0/cassandra/dml/dml_config_consistency_c.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 01/07/2020
+ web_archive_org_backup_date: 01/07/2020
+-
+ id: 140
+ url: https://github.com/git/git/commit/df5218b4c30b2fa1ba0d1ada4166ad85bc83be26
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 24/05/2020
+ web_archive_org_backup_date: 24/05/2020
+-
+ id: 142
+ url: https://github.com/git/git/blob/v2.17.1/Documentation/RelNotes/2.12.0.txt#L50
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 21/03/2020
+ web_archive_org_backup_date: 21/03/2020
+-
+ id: 143
+ url: https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 21/03/2020
+ web_archive_org_backup_date: 21/03/2020
+-
+ id: 145
+ url: http://wiki.c2.com/?DontUseExceptionsForFlowControl
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 08/08/2020
+ web_archive_org_backup_date: 08/08/2020
+-
+ id: 148
+ url: https://docs.microsoft.com/en-us/dotnet/standard/exceptions/best-practices-for-exceptions
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 08/08/2020
+ web_archive_org_backup_date: 08/08/2020
+-
+ id: 149
+ url: https://www.quora.com/How-expensive-is-the-try-catch-block-in-Java-in-terms-of-performance
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 08/08/2020
+ web_archive_org_backup_date: 08/08/2020
+-
+ id: 150
+ url: https://blog.overops.com/the-surprising-truth-of-java-exceptions-what-is-really-going-on-under-the-hood/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 08/08/2020
+ web_archive_org_backup_date: 08/08/2020
+-
+ id: 151
+ url: https://www.quora.com/How-expensive-is-the-try-catch-block-in-Java-in-terms-of-performance
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 08/08/2020
+ web_archive_org_backup_date: 08/08/2020
+-
+ id: 153
+ url: https://phauer.com/2016/dont-share-libraries-among-microservices/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 11/01/2020
+ web_archive_org_backup_date: 11/01/2020
+-
+ id: 154
+ url: https://blog.softwaremill.com/are-you-sure-youre-using-microservices-f8d4e912d014
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 11/01/2020
+ web_archive_org_backup_date: 11/01/2020
+-
+ id: 155
+ url: https://stackoverflow.com/questions/38492388/adding-dependencies-to-microservices
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 12/01/2020
+ web_archive_org_backup_date: 12/01/2020
+-
+ id: 156
+ url: https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 19/12/2020
+ web_archive_org_backup_date: 19/12/2020
+-
+ id: 157
+ url: https://camel.apache.org/components/latest/eips/enterprise-integration-patterns.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 19/12/2020
+ web_archive_org_backup_date: 19/12/2020
+-
+ id: 158
+ url: https://martinfowler.com/bliki/CommandQuerySeparation.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 15/09/2020
+ web_archive_org_backup_date: 15/09/2020
+-
+ id: 160
+ url: https://stackoverflow.com/questions/34255490/difference-between-cqrs-vs-cqs/53449521#53449521
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 03/01/2020
+ web_archive_org_backup_date: 03/01/2020
+-
+ id: 161
+ url: https://martinfowler.com/bliki/CQRS.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 15/09/2020
+ web_archive_org_backup_date: 15/09/2020
+-
+ id: 162
+ url: https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 03/01/2020
+ web_archive_org_backup_date: 03/01/2020
+-
+ id: 164
+ url: https://blog.bernd-ruecker.com/what-are-long-running-processes-b3ee769f0a27
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 03/01/2020
+ web_archive_org_backup_date: 03/01/2020
+-
+ id: 166
+ url: https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 13/01/2019
+ web_archive_org_backup_date: 13/01/2019
+-
+ id: 168
+ url: https://www.researchgate.net/profile/Bruno-Rossi/publication/335069774_The_Saga_Pattern_in_a_Reactive_Microservices_Environment/links/5feefa96a6fdccdcb81ec5ec/The-Saga-Pattern-in-a-Reactive-Microservices-Environment.pdf?origin=publication_detail
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 12/07/2021
+ web_archive_org_backup_date: 12/07/2021
+-
+ id: 171
+ url: https://microservices.io/patterns/data/event-driven-architecture.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 08/01/2020
+ web_archive_org_backup_date: 08/01/2020
+-
+ id: 172
+ url: https://www.innoq.com/de/blog/domain-events-versus-event-sourcing/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 18/10/2019
+ web_archive_org_backup_date: 18/10/2019
+-
+ id: 173
+ url: https://www.innoq.com/de/blog/domain-events-versus-event-sourcing/context-map.png
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 18/10/2019
+ web_archive_org_backup_date: 18/10/2019
+-
+ id: 174
+ url: https://martinfowler.com/eaaDev/EventSourcing.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 06/02/2020
+ web_archive_org_backup_date: 06/02/2020
+-
+ id: 175
+ url: https://theburningmonk.com/2019/08/a-simple-event-sourcing-example-with-snapshots-using-lambda-and-dynamodb/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 18/10/2019
+ web_archive_org_backup_date: 18/10/2019
+-
+ id: 176
+ url: https://harness.io/2018/02/blue-green-vs-canary-deployments/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 27/04/2020
+ web_archive_org_backup_date: 27/04/2020
+-
+ id: 178
+ url: https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 09/09/2020
+ web_archive_org_backup_date: 09/09/2020
+-
+ id: 179
+ url: https://martinfowler.com/eaaCatalog/frontController.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 10/07/2021
+ web_archive_org_backup_date: 10/07/2021
+-
+ id: 180
+ url: https://www.oracle.com/java/technologies/front-controller.html
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 10/07/2021
+ web_archive_org_backup_date: 10/07/2021
+-
+ id: 181
+ url: https://junit.org/junit5/docs/5.0.1/api/org/junit/platform/engine/TestEngine.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 13/08/2020
+ web_archive_org_backup_date: 13/08/2020
+-
+ id: 182
+ url: https://junit.org/junit5/docs/current/user-guide/#migrating-from-junit4-running
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 13/08/2020
+ web_archive_org_backup_date: 13/08/2020
+-
+ id: 183
+ url: https://junit.org/junit5/docs/current/user-guide/#migrating-from-junit4-running
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 13/08/2020
+ web_archive_org_backup_date: 13/08/2020
+-
+ id: 184
+ url: https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 04/04/2020
+ web_archive_org_backup_date: 04/04/2020
+-
+ id: 185
+ url: https://www.currency-iso.org/dam/downloads/lists/list_one.xml
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 01/05/2020
+ web_archive_org_backup_date: 01/05/2020
+-
+ id: 186
+ url: https://medium.com/baybaynakit/3d-secure-2-0a-yak%C4%B1ndan-bir-bak%C4%B1%C5%9F-bcd777c38c04
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 16/12/2020
+ web_archive_org_backup_date: 16/12/2020
+-
+ id: 187
+ url: https://www.modirum.com/products/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 23/02/2020
+ web_archive_org_backup_date: 23/02/2020
+-
+ id: 188
+ url: https://www.modirum.com/3dsecure/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 23/02/2020
+ web_archive_org_backup_date: 23/02/2020
+-
+ id: 189
+ url: https://bkm.com.tr/faydali-bilgiler/komisyon-ve-ucretler/bankalararasi-takas-komisyonlari/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 10/12/2019
+ web_archive_org_backup_date: 10/12/2019
+-
+ id: 190
+ url: https://bkm.com.tr/en/useful-information/commissions-and-fees/interbank-interchange-commissions/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 10/12/2019
+ web_archive_org_backup_date: 10/12/2019
+-
+ id: 191
+ url: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.532.4485&rep=rep1&type=pdf
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 03/11/2020
+ web_archive_org_backup_date: 03/11/2020
+-
+ id: 193
+ url: https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 03/12/2019
+ web_archive_org_backup_date: 03/12/2019
+-
+ id: 194
+ url: https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS#The_HTTP_response_headers
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 25/06/2020
+ web_archive_org_backup_date: 25/06/2020
+-
+ id: 195
+ url: http://httpd.apache.org/docs/2.4/mod/mod_proxy.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 18/09/2020
+ web_archive_org_backup_date: 18/09/2020
+-
+ id: 196
+ url: https://tools.ietf.org/html/rfc7231
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 03/12/2019
+ web_archive_org_backup_date: 03/12/2019
+-
+ id: 197
+ url: https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 03/12/2019
+ web_archive_org_backup_date: 03/12/2019
+-
+ id: 198
+ url: https://www.owasp.org/index.php/Types_of_Cross-Site_Scripting
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 09/11/2019
+ web_archive_org_backup_date: 09/11/2019
+-
+ id: 199
+ url: https://stackoverflow.com/questions/33644499/what-does-it-mean-when-they-say-react-is-xss-protected
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 18/09/2019
+ web_archive_org_backup_date: 18/09/2019
+-
+ id: 200
+ url: https://www-archive.mozilla.org/newlayout/testcases/layout/entities.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 08/11/2019
+ web_archive_org_backup_date: 08/11/2019
+-
+ id: 201
+ url: https://html.spec.whatwg.org/multipage/named-characters.html#named-character-references
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 08/11/2019
+ web_archive_org_backup_date: 08/11/2019
+-
+ id: 202
+ url: https://wiki.whatwg.org/wiki/HTML_vs._XHTML
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 08/11/2019
+ web_archive_org_backup_date: 08/11/2019
+-
+ id: 203
+ url: https://www.bleepingcomputer.com/news/security/ublock-origin-now-blocks-sneaky-first-party-trackers-in-firefox/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 29/04/2020
+ web_archive_org_backup_date: 29/04/2020
+-
+ id: 204
+ url: https://support.microsoft.com/en-us/help/11531/internet-explorer-system-requirements
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 19/04/2020
+ web_archive_org_backup_date: 19/04/2020
+-
+ id: 205
+ url: https://en.wikipedia.org/wiki/Internet_Explorer_version_history
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 19/04/2020
+ web_archive_org_backup_date: 19/04/2020
+-
+ id: 206
+ url: https://en.wikipedia.org/wiki/Microsoft_Edge
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 19/04/2020
+ web_archive_org_backup_date: 19/04/2020
+-
+ id: 207
+ url: https://docs.microsoft.com/en-us/deployedge/microsoft-edge-supported-operating-systems
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 19/04/2020
+ web_archive_org_backup_date: 19/04/2020
+-
+ id: 208
+ url: https://www.w3.org/MarkUp/html3/forms.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 11/12/2019
+ web_archive_org_backup_date: 11/12/2019
+-
+ id: 209
+ url: https://www.ietf.org/rfc/rfc1738.txt
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 27/03/2020
+ web_archive_org_backup_date: 27/03/2020
+-
+ id: 210
+ url: https://www.w3.org/TR/html4/interact/forms.html#h-17.13.4.1
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 27/03/2020
+ web_archive_org_backup_date: 27/03/2020
+-
+ id: 211
+ url: https://github.com/tastejs/todomvc
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 07/05/2020
+ web_archive_org_backup_date: 07/05/2020
+-
+ id: 212
+ url: https://backbonejs.org/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 07/05/2020
+ web_archive_org_backup_date: 07/05/2020
+-
+ id: 213
+ url: https://backbonejs.org/docs/todos.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 07/05/2020
+ web_archive_org_backup_date: 07/05/2020
+-
+ id: 214
+ url: https://tools.ietf.org/html/rfc2616#section-14.10
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 17/04/2020
+ web_archive_org_backup_date: 17/04/2020
+-
+ id: 215
+ url: https://en.wikipedia.org/wiki/Telnet
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 12/11/2020
+ web_archive_org_backup_date: 12/11/2020
+-
+ id: 216
+ url: https://tools.ietf.org/rfc/rfc854.txt
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 12/11/2020
+ web_archive_org_backup_date: 12/11/2020
+-
+ id: 217
+ url: https://stackoverflow.com/questions/4731505/how-http-servers-accepts-telnet
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 13/11/2020
+ web_archive_org_backup_date: 13/11/2020
+-
+ id: 218
+ url: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 16/11/2019
+ web_archive_org_backup_date: 16/11/2019
+-
+ id: 219
+ url: https://reacttraining.com/react-router/web/example/basic
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 13/06/2020
+ web_archive_org_backup_date: 13/06/2020
+-
+ id: 220
+ url: https://github.com/supasate/connected-react-router/blob/master/FAQ.md
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 03/12/2019
+ web_archive_org_backup_date: 03/12/2019
+-
+ id: 221
+ url: https://en.reactjs.org/docs/handling-events.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 10/11/2019
+ web_archive_org_backup_date: 10/11/2019
+-
+ id: 222
+ url: https://reactjs.org/docs/lists-and-keys.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 09/03/2020
+ web_archive_org_backup_date: 09/03/2020
+-
+ id: 223
+ url: https://docs.oracle.com/javaee/5/api/javax/servlet/ServletRequest.html#getParameter(java.lang.String)
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 18/12/2020
+ web_archive_org_backup_date: 18/12/2020
+-
+ id: 224
+ url: https://en.wikipedia.org/wiki/List_of_Unicode_characters
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 28/04/2020
+ web_archive_org_backup_date: 28/04/2020
+-
+ id: 225
+ url: https://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 23/10/2020
+ web_archive_org_backup_date: 23/10/2020
+-
+ id: 226
+ url: https://github.com/KuroLabs/stegcloak
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 11/12/2020
+ web_archive_org_backup_date: 11/12/2020
+-
+ id: 227
+ url: http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 02/07/2021
+ web_archive_org_backup_date: 02/07/2021
+-
+ id: 231
+ url: https://suadev.gitbook.io/turkish-microservices-book/ddd-ve-microservice-mimari
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 26/05/2020
+ web_archive_org_backup_date: 26/05/2020
+-
+ id: 232
+ url: https://medium.com/trendyol-tech/ddd-ve-mikroservis-kavramlar%C4%B1-%C3%BCzerine-bounded-context-mikroservis-i%CC%87li%C5%9Fkisi-ve-tutarl%C4%B1l%C4%B1k-9e7ac4a3532f
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 13/08/2020
+ web_archive_org_backup_date: 13/08/2020
+-
+ id: 233
+ url: https://stackoverflow.com/questions/1958621/whats-an-aggregate-root
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 09/09/2020
+ web_archive_org_backup_date: 09/09/2020
+-
+ id: 234
+ url: https://martinfowler.com/eaaCatalog/dataTransferObject.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 19/10/2020
+ web_archive_org_backup_date: 19/10/2020
+-
+ id: 236
+ url: https://docs.microsoft.com/en-us/sql/t-sql/language-elements/reserved-keywords-transact-sql?view=sql-server-ver15
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 01/01/2021
+ web_archive_org_backup_date: 01/01/2021
+-
+ id: 237
+ url: https://en.wikipedia.org/wiki/Merge_(SQL)
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 04/12/2020
+ web_archive_org_backup_date: 04/12/2020
+-
+ id: 238
+ url: https://sourcemaps.info/spec.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 10/03/2020
+ web_archive_org_backup_date: 10/03/2020
+-
+ id: 241
+ url: https://containerjournal.com/features/system-containers-vs-application-containers-difference-matter/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 25/05/2020
+ web_archive_org_backup_date: 25/05/2020
+-
+ id: 242
+ url: https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_host/7/html/managing_containers/running_system_containers
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 25/05/2020
+ web_archive_org_backup_date: 25/05/2020
+-
+ id: 243
+ url: https://docs.jelastic.com/what-are-system-containers
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 24/05/2020
+ web_archive_org_backup_date: 24/05/2020
+-
+ id: 244
+ url: https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 24/05/2020
+ web_archive_org_backup_date: 24/05/2020
+-
+ id: 248
+ url: https://ahmet.im/blog/minimal-init-process-for-containers/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 19/10/2019
+ web_archive_org_backup_date: 19/10/2019
+-
+ id: 254
+ url: http://man.he.net/man8/init
+ local_pdf_backup_date: 28/05/2020
+ local_html_backup_date: 28/05/2020
+ archive_is_backup_date: 28/05/2020
+ web_archive_org_backup_date: 28/05/2020
+-
+ id: 256
+ url: https://docs.openshift.com/container-platform/4.3/architecture/architecture.html#architecture-custom-os_architecture
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 26/01/2020
+ web_archive_org_backup_date: 26/01/2020
+-
+ id: 257
+ url: https://mrumpf.github.io/spring-cloud-on-k8s/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 16/01/2020
+ web_archive_org_backup_date: 16/01/2020
+-
+ id: 258
+ url: https://developers.redhat.com/blog/2016/12/09/spring-cloud-for-microservices-compared-to-kubernetes/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 16/01/2020
+ web_archive_org_backup_date: 16/01/2020
+-
+ id: 259
+ url: https://docs.openshift.com/container-platform/3.4/architecture/core_concepts/projects_and_users.html#namespaces
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 26/01/2020
+ web_archive_org_backup_date: 26/01/2020
+-
+ id: 260
+ url: https://github.com/kubernetes/minikube/pull/6151
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 29/05/2020
+ web_archive_org_backup_date: 29/05/2020
+-
+ id: 261
+ url: https://kind.sigs.k8s.io/docs/user/resources/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 29/05/2020
+ web_archive_org_backup_date: 29/05/2020
+-
+ id: 262
+ url: https://kubernetes.io/docs/concepts/storage/volumes/#types-of-volumes
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 23/05/2020
+ web_archive_org_backup_date: 23/05/2020
+-
+ id: 263
+ url: https://raw.githubusercontent.com/torvalds/linux/master/include/uapi/asm-generic/errno.h
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 15/02/2020
+ web_archive_org_backup_date: 15/02/2020
+-
+ id: 264
+ url: https://raw.githubusercontent.com/torvalds/linux/master/include/uapi/asm-generic/errno-base.h
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 14/05/2020
+ web_archive_org_backup_date: 14/05/2020
+-
+ id: 265
+ url: https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/errno.h.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 15/02/2020
+ web_archive_org_backup_date: 15/02/2020
+-
+ id: 266
+ url: https://docs.microsoft.com/en-us/troubleshoot/iis/http-status-code
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 11/02/2021
+ web_archive_org_backup_date: 11/02/2021
+-
+ id: 267
+ url: https://ubuntu.com/blog/a-guide-to-snap-permissions-and-interfaces
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 26/06/2021
+ web_archive_org_backup_date: 26/06/2021
+-
+ id: 268
+ url: https://pepa.holla.cz/wp-content/uploads/2017/06/jwt-handbook.pdf
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 07/11/2020
+ web_archive_org_backup_date: 07/11/2020
+-
+ id: 269
+ url: https://tools.ietf.org/html/rfc7519
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 15/05/2020
+ web_archive_org_backup_date: 15/05/2020
+-
+ id: 271
+ url: https://tools.ietf.org/html/rfc7516
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 07/11/2020
+ web_archive_org_backup_date: 07/11/2020
+-
+ id: 272
+ url: https://www.rfc-editor.org/rfc/rfc7515.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 07/11/2020
+ web_archive_org_backup_date: 07/11/2020
+-
+ id: 278
+ url: https://docs.microsoft.com/en-us/windows/desktop/Intl/code-page-identifiers
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 19/05/2019
+ web_archive_org_backup_date: 19/05/2019
+-
+ id: 279
+ url: https://spring.io/blog/2011/08/15/configuring-spring-and-jta-without-full-java-ee
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 11/02/2020
+ web_archive_org_backup_date: 11/02/2020
+-
+ id: 280
+ url: https://assets.spring.io/wp/wp-content/uploads/2011/08/TransactionClassHierarchy.png
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 11/02/2020
+ web_archive_org_backup_date: 11/02/2020
+-
+ id: 281
+ url: https://pubs.opengroup.org/onlinepubs/009249599/toc.pdf
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 23/12/2020
+ web_archive_org_backup_date: 23/12/2020
+-
+ id: 282
+ url: https://spring.io/blog/2011/08/15/configuring-spring-and-jta-without-full-java-ee
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 11/02/2020
+ web_archive_org_backup_date: 11/02/2020
+-
+ id: 283
+ url: http://pubs.opengroup.org/onlinepubs/009680699/toc.pdf
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 11/02/2020
+ web_archive_org_backup_date: 11/02/2020
+-
+ id: 284
+ url: https://publications.opengroup.org/c193
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 11/02/2020
+ web_archive_org_backup_date: 11/02/2020
+-
+ id: 285
+ url: https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/transaction/annotation/Transactional.html#readOnly--
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 10/02/2021
+ web_archive_org_backup_date: 10/02/2021
+-
+ id: 286
+ url: https://tools.ietf.org/html/rfc8693
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 02/04/2021
+ web_archive_org_backup_date: 02/04/2021
+-
+ id: 288
+ url: https://learn.hashicorp.com/tutorials/vault/getting-started-deploy?in=vault/getting-started
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 03/11/2020
+ web_archive_org_backup_date: 03/11/2020
+-
+ id: 289
+ url: https://docs.spring.io/spring-vault/docs/current/reference/html/index.html#vault.authentication.token
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 03/12/2020
+ web_archive_org_backup_date: 03/12/2020
+-
+ id: 290
+ url: https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=aEzj_IdWAsjiSAfK3qwrBqqyKElPuERPqs5Crix64Vb2gVEIbw3cVVgqURlhmPEe
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 07/08/2020
+ web_archive_org_backup_date: 07/08/2020
+-
+ id: 291
+ url: https://www.ssllabs.com/ssltest/index.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 29/05/2020
+ web_archive_org_backup_date: 29/05/2020
+-
+ id: 292
+ url: https://badssl.com/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 29/05/2020
+ web_archive_org_backup_date: 29/05/2020
+-
+ id: 293
+ url: https://github.com/chromium/badssl.com
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 29/05/2020
+ web_archive_org_backup_date: 29/05/2020
+-
+ id: 294
+ url: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57pt1r4.pdf
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 22/07/2020
+ web_archive_org_backup_date: 22/07/2020
+-
+ id: 295
+ url: https://crackstation.net/hashing-security.htm#properhashing
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 17/05/2020
+ web_archive_org_backup_date: 17/05/2020
+-
+ id: 296
+ url: https://richardwarrender.com/2016/04/encrypt-data-using-aes-and-256-bit-keys/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 22/07/2020
+ web_archive_org_backup_date: 22/07/2020
+-
+ id: 298
+ url: https://www.issihosts.com/haveged/history.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 16/09/2020
+ web_archive_org_backup_date: 16/09/2020
+-
+ id: 300
+ url: https://hal.inria.fr/inria-00071993/document
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 16/09/2020
+ web_archive_org_backup_date: 16/09/2020
+-
+ id: 302
+ url: https://www.ietf.org/rfc/rfc4122
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 02/11/2019
+ web_archive_org_backup_date: 02/11/2019
+-
+ id: 303
+ url: https://fetch.spec.whatwg.org/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 27/11/2019
+ web_archive_org_backup_date: 27/11/2019
+-
+ id: 304
+ url: https://github.com/github/fetch/blob/master/fetch.js
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 27/11/2019
+ web_archive_org_backup_date: 27/11/2019
+-
+ id: 305
+ url: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 27/11/2019
+ web_archive_org_backup_date: 27/11/2019
+-
+ id: 306
+ url: https://deanhume.com/experimenting-with-the-streams-api/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 24/09/2020
+ web_archive_org_backup_date: 24/09/2020
+-
+ id: 307
+ url: https://nodejs.org/api/http.html
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 24/09/2020
+ web_archive_org_backup_date: 24/09/2020
+-
+ id: 308
+ url: https://github.com/axios/axios
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 24/09/2020
+ web_archive_org_backup_date: 24/09/2020
+-
+ id: 309
+ url: http://vanilla-js.com/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 04/02/2020
+ web_archive_org_backup_date: 04/02/2020
+-
+ id: 310
+ url: http://www.iana.org/time-zones
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 19/10/2020
+ web_archive_org_backup_date: 19/10/2020
+-
+ id: 311
+ url: https://github.com/moment/moment-timezone/issues/363
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 19/10/2020
+ web_archive_org_backup_date: 19/10/2020
+-
+ id: 312
+ url: https://momentjs.com/docs/#/-project-status/recommendations/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 07/04/2021
+ web_archive_org_backup_date: 07/04/2021
+-
+ id: 313
+ url: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 13/06/2021
+ web_archive_org_backup_date: 13/06/2021
+-
+ id: 314
+ url: https://linux.die.net/man/2/read
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 26/10/2019
+ web_archive_org_backup_date: 26/10/2019
+-
+ id: 315
+ url: https://unix.stackexchange.com/questions/272965/pushd-popd-vs-cd-cd-in-bash-and-zsh
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 17/04/2020
+ web_archive_org_backup_date: 17/04/2020
+-
+ id: 316
+ url: https://github.com/FasterXML/jackson-dataformats-binary
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 25/10/2019
+ web_archive_org_backup_date: 25/10/2019
+-
+ id: 317
+ url: https://github.com/FasterXML/jackson-modules-base
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 25/10/2019
+ web_archive_org_backup_date: 25/10/2019
+-
+ id: 318
+ url: https://github.com/FasterXML/jackson-modules-java8
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 25/10/2019
+ web_archive_org_backup_date: 25/10/2019
+-
+ id: 319
+ url: https://openid.net/specs/openid-connect-core-1_0.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 01/04/2021
+ web_archive_org_backup_date: 01/04/2021
+-
+ id: 320
+ url: https://tools.ietf.org/html/rfc7636
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 31/03/2021
+ web_archive_org_backup_date: 31/03/2021
+-
+ id: 321
+ url: https://tools.ietf.org/html/rfc6749
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 31/03/2021
+ web_archive_org_backup_date: 31/03/2021
+-
+ id: 323
+ url: http://hg.openjdk.java.net/jdk8/jdk8/jdk/file/687fd7c7986d/src/share/classes/java/lang/String.java
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 21/03/2021
+ web_archive_org_backup_date: 21/03/2021
+-
+ id: 324
+ url: http://www.onjava.com/pub/a/onjava/2006/09/13/dont-let-hibernate-steal-your-identity.html?page=1
+ local_pdf_backup_date: 10/07/2017
+ local_html_backup_date: 10/07/2017
+ archive_is_backup_date: 10/07/2017
+ web_archive_org_backup_date: 10/07/2017
+-
+ id: 325
+ url: http://www.onjava.com/pub/a/onjava/2006/09/13/dont-let-hibernate-steal-your-identity.html?page=2
+ local_pdf_backup_date: 10/07/2017
+ local_html_backup_date: 10/07/2017
+ archive_is_backup_date: 10/07/2017
+ web_archive_org_backup_date: 10/07/2017
+-
+ id: 326
+ url: http://www.onjava.com/pub/a/onjava/2006/09/13/dont-let-hibernate-steal-your-identity.html?page=3
+ local_pdf_backup_date: 10/07/2017
+ local_html_backup_date: 10/07/2017
+ archive_is_backup_date: 10/07/2017
+ web_archive_org_backup_date: 10/07/2017
+-
+ id: 327
+ url: https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 16/11/2019
+ web_archive_org_backup_date: 16/11/2019
+-
+ id: 328
+ url: https://github.com/OpenFeign/feign
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 22/01/2020
+ web_archive_org_backup_date: 22/01/2020
+-
+ id: 329
+ url: https://raw.githubusercontent.com/OpenFeign/feign/5.x/example-wikipedia/build.gradle
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 22/01/2020
+ web_archive_org_backup_date: 22/01/2020
+-
+ id: 330
+ url: https://raw.githubusercontent.com/OpenFeign/feign/9.x/example-wikipedia/pom.xml
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 22/01/2020
+ web_archive_org_backup_date: 22/01/2020
+-
+ id: 331
+ url: https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-feign.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 22/01/2020
+ web_archive_org_backup_date: 22/01/2020
+-
+ id: 332
+ url: https://raw.githubusercontent.com/spring-cloud/spring-cloud-openfeign/master/spring-cloud-openfeign-core/pom.xml
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 26/01/2020
+ web_archive_org_backup_date: 26/01/2020
+-
+ id: 333
+ url: https://github.com/spring-cloud/spring-cloud-sleuth#only-sleuth-log-correlation
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 27/02/2020
+ web_archive_org_backup_date: 27/02/2020
+-
+ id: 334
+ url: https://github.com/spring-cloud/spring-cloud-sleuth#terminology
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 27/02/2020
+ web_archive_org_backup_date: 27/02/2020
+-
+ id: 335
+ url: https://cloud.spring.io/spring-cloud-kubernetes/multi/multi__why_do_you_need_spring_cloud_kubernetes.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 18/01/2020
+ web_archive_org_backup_date: 18/01/2020
+-
+ id: 336
+ url: https://docs.oracle.com/cd/E19455-01/806-0916/6ja85398m/index.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 26/08/2020
+ web_archive_org_backup_date: 26/08/2020
+-
+ id: 337
+ url: https://en.wikipedia.org/wiki/Internet_protocol_suite#cite_ref-rfc1122_1-0
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 26/08/2020
+ web_archive_org_backup_date: 26/08/2020
+-
+ id: 338
+ url: http://www.bitsavers.org/pdf/datapro/communications_standards/2783_ISO_OSI.pdf
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 26/08/2020
+ web_archive_org_backup_date: 26/08/2020
+-
+ id: 339
+ url: https://infosys.beckhoff.com/english.php?content=../content/1033/tf6310_tc3_tcpip/9007199338987915.html&id=
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 24/08/2020
+ web_archive_org_backup_date: 24/08/2020
+-
+ id: 340
+ url: https://tools.ietf.org/html/rfc2223
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 26/08/2020
+ web_archive_org_backup_date: 26/08/2020
+-
+ id: 341
+ url: https://llvm.org/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 18/01/2020
+ web_archive_org_backup_date: 18/01/2020
+-
+ id: 342
+ url: https://www.infoworld.com/article/3247799/what-is-llvm-the-power-behind-swift-rust-clang-and-more.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 18/01/2020
+ web_archive_org_backup_date: 18/01/2020
+-
+ id: 343
+ url: https://idea.popcount.org/2013-07-24-ir-is-better-than-assembly/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 25/03/2020
+ web_archive_org_backup_date: 25/03/2020
+-
+ id: 344
+ url: https://idea.popcount.org/2013-07-24-ir-is-better-than-assembly/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 25/03/2020
+ web_archive_org_backup_date: 25/03/2020
+-
+ id: 345
+ url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Overview_of_the_Common_Language_Infrastructure.svg/800px-Overview_of_the_Common_Language_Infrastructure.svg.png
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 25/03/2020
+ web_archive_org_backup_date: 25/03/2020
+-
+ id: 346
+ url: https://code.quarkus.io/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 18/01/2020
+ web_archive_org_backup_date: 18/01/2020
+-
+ id: 347
+ url: https://www.ibm.com/support/knowledgecenter/SSYKE2_7.1.0/com.ibm.java.win.71.doc/user/java.html
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 10/10/2019
+ web_archive_org_backup_date: 10/10/2019
+-
+ id: 348
+ url: https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-embedded-container-servlets-filters-listeners-beans
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 03/09/2020
+ web_archive_org_backup_date: 03/09/2020
+-
+ id: 349
+ url: https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 28/08/2020
+ web_archive_org_backup_date: 28/08/2020
+-
+ id: 351
+ url: https://shiro.apache.org/terminology.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 06/11/2020
+ web_archive_org_backup_date: 06/11/2020
+-
+ id: 353
+ url: https://docs.oracle.com/javase/7/docs/technotes/guides/security/jgss/tutorials/glossary.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 06/11/2020
+ web_archive_org_backup_date: 06/11/2020
+-
+ id: 354
+ url: https://www.baeldung.com/java-9-http-client
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 7/04/2020
+ web_archive_org_backup_date: 7/04/2020
+-
+ id: 355
+ url: https://openjdk.java.net/groups/net/httpclient/intro.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 7/04/2020
+ web_archive_org_backup_date: 7/04/2020
+-
+ id: 356
+ url: https://github.com/OpenFeign/feign
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 11/07/2021
+ web_archive_org_backup_date: 11/07/2021
+-
+ id: 357
+ url: http://hc.apache.org/httpclient-3.x/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 23/09/2020
+ web_archive_org_backup_date: 23/09/2020
+-
+ id: 358
+ url: https://github.com/AsyncHttpClient/async-http-client
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 23/09/2020
+ web_archive_org_backup_date: 23/09/2020
+-
+ id: 359
+ url: https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/web/client/RestTemplate.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 23/09/2020
+ web_archive_org_backup_date: 23/09/2020
+-
+ id: 360
+ url: https://monkeypatch.io/blog/2016/2016-08-12-mktd1-feign-vs-retrofit-1-en/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 06/04/2021
+ web_archive_org_backup_date: 06/04/2021
+-
+ id: 361
+ url: https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-external-config
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 11/02/2020
+ web_archive_org_backup_date: 11/02/2020
+-
+ id: 362
+ url: https://books.google.com.tr/books?id=hhADcjVrLKwC&pg=PA19&lpg=PA19&dq=%22org.springframework.core%22+%22spring-core%22+diff&source=bl&ots=mNv9bPEjjA&sig=ACfU3U0GV1V8NYlPfSXK-foq3MbKnoL6lg&hl=tr&sa=X&ved=2ahUKEwiq-Ynlg7boAhVT8aYKHTSPB34Q6AEwAHoECAsQAQ#v=onepage&q=%22org.springframework.core%22%20%22spring-core%22%20diffg.springframework.co&f=false
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 25/03/2020
+ web_archive_org_backup_date: 25/03/2020
+-
+ id: 363
+ url: https://www.washingtonpost.com/technology/2019/12/17/what-does-your-car-know-about-you-we-hacked-chevy-find-out/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 26/12/2019
+ web_archive_org_backup_date: 26/12/2019
+-
+ id: 364
+ url: https://www.youtube.com/watch?v=l8wflMC2Ugw
+ local_pdf_backup_date: video_only_and_no_other_information_to_backup
+ local_html_backup_date: video_only_and_no_other_information_to_backup
+ archive_is_backup_date: 03/12/2020
+ web_archive_org_backup_date: 03/12/2020
+-
+ id: 366
+ url: https://www.kingston.com/tr/usb-flash-drives/usb-30
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 01/02/2020
+ web_archive_org_backup_date: 01/02/2020
+-
+ id: 367
+ url: https://www.moddiy.com/product_images/uploaded_images/usb-tutorial-connectors.jpg
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 01/02/2020
+ web_archive_org_backup_date: 01/02/2020
+-
+ id: 368
+ url: https://4.bp.blogspot.com/-fBhVhbqSQwY/WUOR-lZ7ODI/AAAAAAAAC80/j_ROzsYX0XkdI0tJC3GPMEW9lvv0TevuACLcBGAs/s1600/all-usb-connector-2.jpg
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 01/02/2020
+ web_archive_org_backup_date: 01/02/2020
+-
+ id: 369
+ url: https://redisson.org/glossary/redis-caching.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 18/09/2020
+ web_archive_org_backup_date: 18/09/2020
+-
+ id: 370
+ url: https://www.lifewire.com/why-your-bluetooth-wont-pair-534650
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 05/12/2019
+ web_archive_org_backup_date: 05/12/2019
+-
+ id: 371
+ url: https://en.wikipedia.org/wiki/List_of_Bluetooth_profiles
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 05/12/2019
+ web_archive_org_backup_date: 05/12/2019
+-
+ id: 372
+ url: https://raw.githubusercontent.com/apache/kafka/0.8/bin/kafka-list-topic.sh
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 29/01/2020
+ web_archive_org_backup_date: 29/01/2020
+-
+ id: 373
+ url: https://raw.githubusercontent.com/apache/kafka/0.8/core/src/main/scala/kafka/admin/ListTopicCommand.scala
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 29/01/2020
+ web_archive_org_backup_date: 29/01/2020
+-
+ id: 374
+ url: https://raw.githubusercontent.com/apache/kafka/trunk/clients/src/main/java/org/apache/kafka/clients/consumer/KafkaConsumer.java
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 29/01/2020
+ web_archive_org_backup_date: 29/01/2020
+-
+ id: 375
+ url: https://github.com/obsidiandynamics/kafdrop
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 04/02/2020
+ web_archive_org_backup_date: 04/02/2020
+-
+ id: 376
+ url: https://kafka.apache.org/23/javadoc/org/apache/kafka/clients/admin/KafkaAdminClient.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 04/02/2020
+ web_archive_org_backup_date: 04/02/2020
+-
+ id: 377
+ url: https://kafka.apache.org/23/javadoc/org/apache/kafka/common/TopicPartition.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 04/02/2020
+ web_archive_org_backup_date: 04/02/2020
+-
+ id: 378
+ url: https://www.confluent.io/blog/transactions-apache-kafka/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 04/02/2020
+ web_archive_org_backup_date: 04/02/2020
+-
+ id: 379
+ url: https://kafka-python.readthedocs.io/en/master/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 04/02/2020
+ web_archive_org_backup_date: 04/02/2020
+-
+ id: 381
+ url: https://dzone.com/articles/apache-kafka-topic-architecture-amp-partitions
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 28/01/2020
+ web_archive_org_backup_date: 28/01/2020
+-
+ id: 382
+ url: https://medium.com/@_amanarora/replication-in-kafka-58b39e91b64e
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 28/01/2020
+ web_archive_org_backup_date: 28/01/2020
+-
+ id: 383
+ url: https://www.cloudkarafka.com/blog/2016-11-30-part1-kafka-for-beginners-what-is-apache-kafka.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 07/02/2020
+ web_archive_org_backup_date: 07/02/2020
+-
+ id: 385
+ url: https://www.confluent.io/blog/hands-free-kafka-replication-a-lesson-in-operational-simplicity/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 28/01/2020
+ web_archive_org_backup_date: 28/01/2020
+-
+ id: 387
+ url: https://www.cloudkarafka.com/blog/2019-09-28-what-does-in-sync-in-apache-kafka-really-mean.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 28/01/2020
+ web_archive_org_backup_date: 28/01/2020
+-
+ id: 388
+ url: https://kafka.apache.org/intro
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 28/01/2020
+ web_archive_org_backup_date: 28/01/2020
+-
+ id: 389
+ url: https://www.ibm.com/cloud/learn/message-brokers
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 19/12/2020
+ web_archive_org_backup_date: 19/12/2020
+-
+ id: 390
+ url: https://www.bell-labs.com/usr/dmr/www/pdfs/man22.pdf
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 10/10/2019
+ web_archive_org_backup_date: 10/10/2019
+-
+ id: 391
+ url: https://en.wikipedia.org/wiki/Leap_second
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 18/12/2019
+ web_archive_org_backup_date: 18/12/2019
+-
+ id: 392
+ url: https://pubs.opengroup.org/onlinepubs/9699919799/xrat/V4_xbd_chap04.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 18/12/2019
+ web_archive_org_backup_date: 18/12/2019
+-
+ id: 393
+ url: https://en.wikipedia.org/wiki/Time_formatting_and_storage_bugs
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 20/10/2019
+ web_archive_org_backup_date: 20/10/2019
+-
+ id: 394
+ url: http://www.iana.org/time-zones
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 19/10/2020
+ web_archive_org_backup_date: 19/10/2020
+-
+ id: 395
+ url: https://github.com/moment/moment-timezone/issues/363
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 19/10/2020
+ web_archive_org_backup_date: 19/10/2020
+-
+ id: 396
+ url: https://www.azul.com/products/open-source-tools/ziupdater-time-zone-tool/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 19/10/2020
+ web_archive_org_backup_date: 19/10/2020
+-
+ id: 397
+ url: https://github.com/brettwooldridge/HikariCP/wiki/%22My-benchmark-doesn't-show-a-difference.%22#what-does-correctness-and-reliability-mean
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 03/09/2020
+ web_archive_org_backup_date: 03/09/2020
+-
+ id: 398
+ url: https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 03/09/2020
+ web_archive_org_backup_date: 03/09/2020
+-
+ id: 399
+ url: https://github.com/brettwooldridge/HikariCP/issues/1023#issuecomment-345592654
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 03/09/2020
+ web_archive_org_backup_date: 03/09/2020
+-
+ id: 400
+ url: https://www.oracle.com/database/technologies/faq-jdbc.html
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 23/11/2019
+ web_archive_org_backup_date: 23/11/2019
+-
+ id: 401
+ url: https://dzone.com/articles/filebeat-vs-logstash-the-evolution-of-a-log-shippe
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 31/12/2019
+ web_archive_org_backup_date: 31/12/2019
+-
+ id: 402
+ url: https://www.elastic.co/guide/en/logstash/current/pipeline.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 31/12/2019
+ web_archive_org_backup_date: 31/12/2019
+-
+ id: 404
+ url: https://itnext.io/common-logstash-use-cases-with-grok-json-and-mutate-filters-elk-logstash-in-docker-filebeat-871ed58c7651
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 01/01/2020
+ web_archive_org_backup_date: 01/01/2020
+-
+ id: 405
+ url: https://tools.ietf.org/html/rfc3164
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 31/12/2019
+ web_archive_org_backup_date: 31/12/2019
+-
+ id: 406
+ url: https://tools.ietf.org/html/rfc5424
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 31/12/2019
+ web_archive_org_backup_date: 31/12/2019
+-
+ id: 407
+ url: http://dbmsmusings.blogspot.com/2010/03/distinguishing-two-major-types-of_29.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 26/12/2020
+ web_archive_org_backup_date: 26/12/2020
+-
+ id: 408
+ url: https://i.stack.imgur.com/q4y2a.jpg
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 19/11/2020
+ web_archive_org_backup_date: 19/11/2020
+-
+ id: 409
+ url: http://www.washi.cs.waseda.ac.jp/wp-content/uploads/2017/03/Sami-Lappalainen.pdf
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 06/03/2021
+ web_archive_org_backup_date: 06/03/2021
+-
+ id: 411
+ url: https://academy.realm.io/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android/
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 06/03/2021
+ web_archive_org_backup_date: 06/03/2021
+-
+ id: 412
+ url: https://github.com/ericmaxwell2003/ticTacToe
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 06/03/2021
+ web_archive_org_backup_date: 06/03/2021
+-
+ id: 415
+ url: https://developer.android.com/topic/libraries/data-binding
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 06/03/2021
+ web_archive_org_backup_date: 06/03/2021
+-
+ id: 418
+ url: https://xlinux.nist.gov/dads/HTML/littleOnotation.html
+ local_pdf_backup_date: 11/07/2021
+ local_html_backup_date: 11/07/2021
+ archive_is_backup_date: 26/06/2021
+ web_archive_org_backup_date: 26/06/2021
+-
+ id: 419
+ url: http://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html#Lifecycle_Reference
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 12/07/2021
+ web_archive_org_backup_date: 12/07/2021
+-
+ id: 420
+ url: http://codeflex.co/java-multithreading-completablefuture-explained/
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 12/07/2021
+ web_archive_org_backup_date: 12/07/2021
+-
+ id: 421
+ url: http://tomee.apache.org/comparison.html
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 12/07/2021
+ web_archive_org_backup_date: 12/07/2021
+-
+ id: 422
+ url: http://man7.org/linux/man-pages/man1/top.1.html
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 12/07/2021
+ web_archive_org_backup_date: 12/07/2021
+-
+ id: 423
+ url: http://www.cs.man.ac.uk/~pjj/cs2112/langdes/script.html
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 12/07/2021
+ web_archive_org_backup_date: 12/07/2021
+-
+ id: 424
+ url: https://wiki.tcl-lang.org/page/Scripting+language
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 12/07/2021
+ web_archive_org_backup_date: 12/07/2021
+-
+ id: 425
+ url: http://docs.oracle.com/javase/6/docs/technotes/guides/security/crypto/CryptoSpec.html#PBEEx
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 12/07/2021
+ web_archive_org_backup_date: 12/07/2021
+-
+ id: 426
+ url: http://unicode.org/glossary/
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 12/07/2021
+ web_archive_org_backup_date: 12/07/2021
+-
+ id: 427
+ url: http://unicode.org/faq/unsup_char.html
+ local_pdf_backup_date: 12/07/2021
+ local_html_backup_date: 12/07/2021
+ archive_is_backup_date: 12/07/2021
+ web_archive_org_backup_date: 12/07/2021
+-
+ id: 428
+ url: https://developer.mozilla.org/en-US/docs/Archive/CSS3#modules_and_the_standardization_process
+ local_pdf_backup_date: 13/07/2021
+ local_html_backup_date: 13/07/2021
+ archive_is_backup_date: 13/07/2021
+ web_archive_org_backup_date: 13/07/2021
+-
+ id: 429
+ url: https://mariadb.com/kb/en/mariadb-vs-mysql-compatibility/
+ local_pdf_backup_date: 13/07/2021
+ local_html_backup_date: 13/07/2021
+ archive_is_backup_date: 13/07/2021
+ web_archive_org_backup_date: 13/07/2021
+-
+ id: 430
+ url: https://git-scm.com/download/win
+ local_pdf_backup_date: 13/07/2021
+ local_html_backup_date: 13/07/2021
+ archive_is_backup_date: 13/07/2021
+ web_archive_org_backup_date: 13/07/2021
+-
+ id: 431
+ url: https://github.com/git-for-windows/git
+ local_pdf_backup_date: 13/07/2021
+ local_html_backup_date: 13/07/2021
+ archive_is_backup_date: 13/07/2021
+ web_archive_org_backup_date: 13/07/2021
+-
+ id: 432
+ url: https://github.com/ezyang/htmlpurifier
+ local_pdf_backup_date: 13/07/2021
+ local_html_backup_date: 13/07/2021
+ archive_is_backup_date: 13/07/2021
+ web_archive_org_backup_date: 13/07/2021
+-
+ id: 433
+ url: https://en.wikipedia.org/wiki/Base64
+ local_pdf_backup_date: 13/07/2021
+ local_html_backup_date: 13/07/2021
+ archive_is_backup_date: 13/07/2021
+ web_archive_org_backup_date: 13/07/2021
+-
+ id: 434
+ url: https://www.apple.com/tr/iphone/compare/
+ local_pdf_backup_date: 13/07/2021
+ local_html_backup_date: 13/07/2021
+ archive_is_backup_date: 13/07/2021
+ web_archive_org_backup_date: 13/07/2021
+-
+ id: 435
+ url: https://maven.apache.org/guides/mini/guide-configuring-plugins.html#Using_the_reporting_Tag_VS_build_Tag
+ local_pdf_backup_date: 13/07/2021
+ local_html_backup_date: 13/07/2021
+ archive_is_backup_date: 13/07/2021
+ web_archive_org_backup_date: 13/07/2021
+-
+ id: 436
+ url: https://maven.apache.org/plugins/
+ local_pdf_backup_date: 13/07/2021
+ local_html_backup_date: 13/07/2021
+ archive_is_backup_date: 13/07/2021
+ web_archive_org_backup_date: 13/07/2021
+-
+ id: 437
+ url: https://www.mojohaus.org/plugins.html
+ local_pdf_backup_date: 13/07/2021
+ local_html_backup_date: 13/07/2021
+ archive_is_backup_date: 13/07/2021
+ web_archive_org_backup_date: 13/07/2021
+-
+ id: 438
+ url: https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/
+ local_pdf_backup_date: 13/07/2021
+ local_html_backup_date: 13/07/2021
+ archive_is_backup_date: 13/07/2021
+ web_archive_org_backup_date: 13/07/2021
+-
+ id: 439
+ url: https://kubernetes.io/docs/concepts/configuration/secret/
+ local_pdf_backup_date: 13/07/2021
+ local_html_backup_date: 13/07/2021
+ archive_is_backup_date: 13/07/2021
+ web_archive_org_backup_date: 13/07/2021
+-
+ id: 440
+ url: https://docs.mitmproxy.org/stable/concepts-modes
+ local_pdf_backup_date: 13/07/2021
+ local_html_backup_date: 13/07/2021
+ archive_is_backup_date: 13/07/2021
+ web_archive_org_backup_date: 13/07/2021
+-
+ id: 441
+ url: https://www.ibm.com/support/knowledgecenter/en/STAV45/com.ibm.sonas.doc/sonas_manpages_syntax.html
+ local_pdf_backup_date: 27/09/2019
+ local_html_backup_date: 27/09/2019
+ archive_is_backup_date: 27/09/2019
+ web_archive_org_backup_date: 27/09/2019
+-
+ id: 442
+ url: https://bazaar.launchpad.net/~ubuntu-core-dev/ubuntu-seeds/ubuntu.bionic/view/head:/desktop.minimal-remove
+ local_pdf_backup_date: 29/03/2018
+ local_html_backup_date: 29/03/2018
+ archive_is_backup_date: 29/03/2018
+ web_archive_org_backup_date: 27/04/2018
+-
+ id: 443
+ url: https://yaml.org/spec/current.html#document%20boundary%20marker/
+ local_pdf_backup_date: 13/07/2021
+ local_html_backup_date: 13/07/2021
+ archive_is_backup_date: 13/07/2021
+ web_archive_org_backup_date: 13/07/2021
+-
+ id: 444
+ url: https://docs.spring.io/spring-security/site/docs/5.3.2.RELEASE/reference/html5/#servletapi-25
+ local_pdf_backup_date: 13/07/2021
+ local_html_backup_date: 13/07/2021
+ archive_is_backup_date: 13/07/2021
+ web_archive_org_backup_date: 13/07/2021
+-
+ id: 445
+ url: https://adoptopenjdk.net/migration.html
+ local_pdf_backup_date: 13/07/2021
+ local_html_backup_date: 13/07/2021
+ archive_is_backup_date: 13/07/2021
+ web_archive_org_backup_date: 13/07/2021
+-
+ id: 446
+ url: https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html
+ local_pdf_backup_date: 13/07/2021
+ local_html_backup_date: 13/07/2021
+ archive_is_backup_date: 13/07/2021
+ web_archive_org_backup_date: 13/07/2021
+-
+ id: 447
+ url: https://tools.ietf.org/html/rfc5077
+ local_pdf_backup_date: 13/07/2021
+ local_html_backup_date: 13/07/2021
+ archive_is_backup_date: 13/07/2021
+ web_archive_org_backup_date: 13/07/2021
+-
+ id: 448
+ url: https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-jersey
+ local_pdf_backup_date: 13/07/2021
+ local_html_backup_date: 13/07/2021
+ archive_is_backup_date: 13/07/2021
+ web_archive_org_backup_date: 13/07/2021
+-
+ id: 449
+ url: https://datatracker.ietf.org/doc/html/rfc4112.html
+ local_pdf_backup_date: 13/07/2021
+ local_html_backup_date: 13/07/2021
+ archive_is_backup_date: 13/07/2021
+ web_archive_org_backup_date: 13/07/2021
+-
+ id: 450
+ url: https://queue.acm.org/detail.cfm?id=2371516
+ local_pdf_backup_date: 13/07/2021
+ local_html_backup_date: 13/07/2021
+ archive_is_backup_date: 13/07/2021
+ web_archive_org_backup_date: 13/07/2021
+-
+ id: 451
+ url: https://en.wikipedia.org/wiki/Mac
+ local_pdf_backup_date: 13/07/2021
+ local_html_backup_date: 13/07/2021
+ archive_is_backup_date: 13/07/2021
+ web_archive_org_backup_date: 13/07/2021
+-
+ id: 452
+ url: https://www.reactive-streams.org/announce-1.0.2
+ local_pdf_backup_date: 13/07/2021
+ local_html_backup_date: 13/07/2021
+ archive_is_backup_date: 13/07/2021
+ web_archive_org_backup_date: 13/07/2021
+-
+ id: 453
+ url: https://choosealicense.com/licenses/
+ local_pdf_backup_date: 13/07/2021
+ local_html_backup_date: 13/07/2021
+ archive_is_backup_date: 13/07/2021
+ web_archive_org_backup_date: 13/07/2021
+-
+ id: 454
+ url: https://choosealicense.com/appendix/
+ local_pdf_backup_date: 13/07/2021
+ local_html_backup_date: 13/07/2021
+ archive_is_backup_date: 13/07/2021
+ web_archive_org_backup_date: 13/07/2021
+-
+ id: 455
+ url: https://developer.mozilla.org/en-US/docs/Web/Web_Components
+ local_pdf_backup_date: 14/07/2021
+ local_html_backup_date: 14/07/2021
+ archive_is_backup_date: 14/07/2021
+ web_archive_org_backup_date: 14/07/2021
+-
+ id: 456
+ url: https://man7.org/linux/man-pages/man2/fork.2.html
+ local_pdf_backup_date: 16/07/2021
+ local_html_backup_date: 16/07/2021
+ archive_is_backup_date: 16/07/2021
+ web_archive_org_backup_date: 16/07/2021
+-
+ id: 457
+ url: https://iximiuz.com/en/posts/how-to-on-processes/
+ local_pdf_backup_date: 16/07/2021
+ local_html_backup_date: 16/07/2021
+ archive_is_backup_date: 16/07/2021
+ web_archive_org_backup_date: 16/07/2021
+-
+ id: 458
+ url: https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/non-relational-data
+ local_pdf_backup_date: 10/08/2021
+ local_html_backup_date: 10/08/2021
+ archive_is_backup_date: 10/08/2021
+ web_archive_org_backup_date: 10/08/2021
+-
+ id: 459
+ url: https://begriffs.com/posts/2017-08-27-deferrable-sql-constraints.html
+ local_pdf_backup_date: 13/08/2021
+ local_html_backup_date: 13/08/2021
+ archive_is_backup_date: 13/08/2021
+ web_archive_org_backup_date: 13/08/2021
+-
+ id: 460
+ url: https://docs.microsoft.com/en-us/sql/relational-databases/indexes/create-unique-indexes?view=sql-server-ver15
+ local_pdf_backup_date: 14/08/2021
+ local_html_backup_date: 14/08/2021
+ archive_is_backup_date: 14/08/2021
+ web_archive_org_backup_date: 14/08/2021
+-
+ id: 461
+ url: https://microservices.io/patterns
+ local_pdf_backup_date: 18/08/2021
+ local_html_backup_date: 18/08/2021
+ archive_is_backup_date: 19/08/2021
+ web_archive_org_backup_date: 18/08/2021
+-
+ id: 462
+ url: https://miro.medium.com/max/700/1*RstxdsCwsVmjokOA2ugjPg.png
+ local_pdf_backup_date: 20/08/2021
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 20/08/2021
+ web_archive_org_backup_date: 20/08/2021
+-
+ id: 463
+ url: https://martinfowler.com/articles/microservices.html#footnote-etymology
+ local_pdf_backup_date: 20/08/2021
+ local_html_backup_date: 20/08/2021
+ archive_is_backup_date: 20/08/2021
+ web_archive_org_backup_date: 20/08/2021
+-
+ id: 464
+ url: https://hazelcast.com/glossary/sharding/
+ local_pdf_backup_date: 09/10/2021
+ local_html_backup_date: 09/10/2021
+ archive_is_backup_date: 09/10/2021
+ web_archive_org_backup_date: 09/10/2021
+-
+ id: 465
+ url: https://srvaroa.github.io/jvm/java/openjdk/biased-locking/2017/01/30/hashCode.html
+ local_pdf_backup_date: 11/10/2021
+ local_html_backup_date: 11/10/2021
+ archive_is_backup_date: 11/10/2021
+ web_archive_org_backup_date: 11/10/2021
+-
+ id: 466
+ url: https://docs.oracle.com/en/java/javase/11/docs/specs/security/standard-names.html
+ local_pdf_backup_date: 14/10/2021
+ local_html_backup_date: 14/10/2021
+ archive_is_backup_date: 15/10/2021
+ web_archive_org_backup_date: 14/10/2021
+-
+ id: 467
+ url: http://www.greenend.org.uk/rjk/tech/regexp.html
+ local_pdf_backup_date: 20/11/2021
+ local_html_backup_date: 20/11/2021
+ archive_is_backup_date: 20/11/2021
+ web_archive_org_backup_date: 20/11/2021
+-
+ id: 468
+ url: https://docs.oracle.com/en/database/oracle/oracle-database/18/odpnt/featDataSharding.html
+ local_pdf_backup_date: 23/04/2022
+ local_html_backup_date: 23/04/2022
+ archive_is_backup_date: 23/04/2022
+ web_archive_org_backup_date: 23/04/2022
+-
+ id: 469
+ url: https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781788397186/5/ch05lvl1sec38/vertical-partitioning
+ local_pdf_backup_date: 23/04/2022
+ local_html_backup_date: 23/04/2022
+ archive_is_backup_date: 23/04/2022
+ web_archive_org_backup_date: 23/04/2022
+-
+ id: 470
+ url: https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/database-sharding-explained-in-plain-english/ba-p/868774
+ local_pdf_backup_date: 28/04/2022
+ local_html_backup_date: 28/04/2022
+ archive_is_backup_date: 28/04/2022
+ web_archive_org_backup_date: 28/04/2022
+-
+ id: 471
+ url: https://github.com/IJMacD/rfc3339-iso8601
+ local_pdf_backup_date: 9/06/2022
+ local_html_backup_date: 9/06/2022
+ archive_is_backup_date: 9/06/2022
+ web_archive_org_backup_date: 9/06/2022
+-
+ id: 472
+ url: https://ijmacd.github.io/rfc3339-iso8601/
+ local_pdf_backup_date: 9/06/2022
+ local_html_backup_date: 9/06/2022
+ archive_is_backup_date: 9/06/2022
+ web_archive_org_backup_date: 9/06/2022
+-
+ id: 473
+ url: https://www.postgresql.org/docs/current/sql-set-constraints.html
+ local_pdf_backup_date: 2/07/2022
+ local_html_backup_date: 2/07/2022
+ archive_is_backup_date: 2/07/2022
+ web_archive_org_backup_date: 2/07/2022
+-
+ id: 474
+ url: https://emmer.dev/blog/deferrable-constraints-in-postgresql/
+ local_pdf_backup_date: 2/07/2022
+ local_html_backup_date: 2/07/2022
+ archive_is_backup_date: 2/07/2022
+ web_archive_org_backup_date: 2/07/2022
+-
+ id: 475
+ url: https://docs.microsoft.com/en-us/azure/architecture/patterns/materialized-view
+ local_pdf_backup_date: 19/07/2022
+ local_html_backup_date: 19/07/2022
+ archive_is_backup_date: 19/07/2022
+ web_archive_org_backup_date: 19/07/2022
+-
+ id: 476
+ url: http://www.diva-portal.org/smash/get/diva2:738269/fulltext01.pdf
+ local_pdf_backup_date: 02/08/2022
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 02/08/2022
+ web_archive_org_backup_date: 02/08/2022
+-
+ id: 477
+ url: https://matfrs2.github.io/RS2/predavanja/literatura/Avram%20A,%20Marinescu%20F.%20-%20Domain%20Driven%20Design%20Quickly.pdf
+ local_pdf_backup_date: 11/08/2022
+ local_html_backup_date: no_need_html_backup_of_pdf_or_image_files
+ archive_is_backup_date: 11/08/2022
+ web_archive_org_backup_date: 11/08/2022
+-
+ id: 478
+ url: https://github.com/uuidjs/uuid/issues/511
+ local_pdf_backup_date: 18/08/2022
+ local_html_backup_date: 18/08/2022
+ archive_is_backup_date: 18/08/2022
+ web_archive_org_backup_date: 18/08/2022
